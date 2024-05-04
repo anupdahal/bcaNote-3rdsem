@@ -6,10 +6,15 @@ return(
         <div className="thisismain">
         <div className="containera">
             <h1 className="wellcomebca"><u>Welcome to BCA Wisdom Hub</u></h1>
-            <h4 className="Empower">Empowering BCA students with the ultimate online resource. Here's why you should make BCA Wisdom Hub your go-to study companion:</h4>
+
+            <hr />
+
+            <h4 className="Empower">Empowering BCA students with the ultimate online resource. </h4>
         </div>
         <div className="info">
             <p><b>We've designed this website to simplify students' access to notes, reports, projects, and related materials from different sources. Explore everything you need notes, reports, projects, and the BCA syllabus all conveniently consolidated on our platform.</b></p>
+
+            <p><b>Here's why you should make BCA Wisdom Hub your go-to study companion:</b></p>
         </div>
     </div>
 

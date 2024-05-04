@@ -1,6 +1,5 @@
 import React from 'react';
 import './index.css'
-// import Digital  from './first-sem/digital';
 
 function Semnav(){
   return(
