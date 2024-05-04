@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.css'
-import Digital  from './first-sem/digital';
+// import Digital  from './first-sem/digital';
 
 function Semnav(){
   return(
@@ -108,7 +108,7 @@ function Semnav(){
 
 <div className="dropdown">
 <div className="contact">
-<a href="#contactus">Contact us</a>
+<a href="#contactus">Contact me</a>
 </div>
 </div>
 
