@@ -108,7 +108,7 @@ function Semnav(){
 
 <div className="dropdown">
 <div className="contact">
-<a href="#contactus">Contact me</a>
+<a href="#contactus">Contact</a>
 </div>
 </div>
 
