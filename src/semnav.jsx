@@ -1,4 +1,5 @@
 import React from 'react';
+import {createBrowserRouter} from 'react-router-dom'
 import './index.css'
 
 function Semnav(){
@@ -9,11 +10,11 @@ function Semnav(){
   <div className="dropdown">
       <a href="#">Sem 1</a>
       <div className="dropdown-content">
-        <a href="./first-sem/digital.jsx">Computer Fundamentals Applications</a>
-        <a href="digitallink">Society and Technology</a>
-        <a href="/1st sem/html files/eng.html">English I</a>
-        <a href="/1st sem/html files/math.html">Mathematics I</a>
-        <a href="/1st sem/html files/digital.html">Digital Logic</a>
+        <link to="/firstSemFundamental">Computer Fundamentals Applications</link>
+        <a href="/firstSemSocial">Society and Technology</a>
+        <a href="/firstSemEnglish">English I</a>
+        <a href="/firstSemMath">Mathematics I</a>
+        <a href="/firstSemDigital">Digital Logic</a>
       </div>
   </div>
 

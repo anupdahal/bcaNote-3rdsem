@@ -9,8 +9,8 @@ body {
 }
 
 hr{
-    width: 100%;
-    margin-top: px;
+    width: 60%;
+    margin-top: 1px;
 }
 u{
     font-size: 30px;
@@ -28,10 +28,11 @@ u{
     position: sticky;
     top: 0;
     z-index: 100;
-    border-radius: 20px;
-    margin-top: 20px;
-    margin-left: 60px;
-    margin-right: 60px;
+    /* border-radius: 20px; */
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    width: 100%;
 }
 
 .contact{
@@ -126,7 +127,7 @@ li {
 }
 
 .highlight {
-    color: #007bff;
+    color: #4b6e94;
     font-weight: bold;
 }
 
@@ -141,7 +142,7 @@ li {
     flex-wrap: wrap;
     align-content: center;
     justify-content: space-around;
-    margin: 10px;
+    margin: 8px;
   }
   .info p{
     text-align: center;
@@ -163,9 +164,17 @@ li {
     padding: 3px;
   }
 
+  .source b{
+    font-size: 13px;
+  }
+
+  .source .refe{
+    font-size: 18px;
+  }
+
 .footer u{
     font-style: oblique;
-font-size: 16px;
+font-size: 14px;
 font-weight: bolder;
 text-align: center;
 
@@ -176,7 +185,6 @@ text-align: center;
 }
 
 #contactus u{
-    /* border: 2px solid red; */
     text-decoration: underline;
     font-size: 16px;
 }
@@ -293,4 +301,12 @@ h4.Empower{
     padding: 0;
     margin: 0;
 }
+
+.source b{
+    font-size: 12px;
+  }
+
+  .source .refe{
+    font-size: 14px;
+  }
 }
